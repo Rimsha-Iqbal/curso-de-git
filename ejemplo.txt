@@ -1,4 +1,4 @@
-Añado linea en main 
+Añado una linea en rama
 Esto es una prueba
 He modificado el archivo en la rama: main
 Modifico main
